@@ -1,0 +1,18 @@
+
+CpfAluno: 085.691.803-22
+NomeAluno: Yan da Silva Alves
+DataNascimentoAluno: 24/03/2002
+EnderecoAluno: rua dos estados
+IdadeAluno: 16
+DataIngressoAluno: 23/03/2002
+SalarioAluno: 1200R$
+AreasInteresse:  | lol | KH | undertale | 
+
+CpfAluno: 121.242.354-36
+NomeAluno: Yan Silva
+DataNascimentoAluno: 12/03/2002
+EnderecoAluno: rua dos estados
+IdadeAluno: 34
+DataIngressoAluno: 87/87/8787
+SalarioAluno: 6646R$
+AreasInteresse:  | undertale | minecarft | 

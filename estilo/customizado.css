@@ -1,0 +1,16 @@
+body{
+	background-image: url("../img/placa.jpg");
+	background-attachment: fixed;
+	background-size: 100%;
+	background-repeat: repeat-y;
+	font-family: arial;
+}
+
+@font-face{
+	src: url("../fontes/fonte1.ttf");
+	font-family: "pc";
+}
+
+h1{
+	font-family: Arial;
+}
